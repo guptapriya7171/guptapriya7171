@@ -7,8 +7,9 @@
 guptapriya7171/guptapriya7171 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<hr>
 
-🛠️ Languages and Tools :
+<h2>🛠️ Languages and Tools :/h2>
 HTML  CSS  JavaScript  React  NodeJS  SQL
 
 
