@@ -18,5 +18,5 @@ You can click the Preview link to take a look at your changes.
 <b>JavaScript</b><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" width="50" height="50" />
 <b>React</b><img src = "https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" width="50" height="50" />
 <b>NodeJS</b><img src = "https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" width="50" height="50" />
-<b>SQL</b>img src = "[https://user-images.githubusercontent.com/96413187/209562678-4377f9b3-042b-45c0-8896-cd2614ff37cd.png](https://static.javatpoint.com/mysql/images/mysql-tutorial.png)" width="50" height="50" />
+<b>SQL</b><img src = "[https://user-images.githubusercontent.com/96413187/209562678-4377f9b3-042b-45c0-8896-cd2614ff37cd.png](https://static.javatpoint.com/mysql/images/mysql-tutorial.png)" width="50" height="50" />
 
