@@ -10,4 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 🛠️ Languages and Tools :
 HTML  CSS  JavaScript  React  Firebase  NodeJS  Git
-![image](https://user-images.githubusercontent.com/96413187/209562571-a80a706a-c014-4779-bf82-3f9da1240596.png)
+
+
+<img src = "https://user-images.githubusercontent.com/96413187/209562678-4377f9b3-042b-45c0-8896-cd2614ff37cd.png" width="200" height="400" />
