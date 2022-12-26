@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 HTML  CSS  JavaScript  React  Firebase  NodeJS  Git
 
 
-<img src = "https://user-images.githubusercontent.com/96413187/209562678-4377f9b3-042b-45c0-8896-cd2614ff37cd.png" width="200" height="400" />
+<img src = "https://user-images.githubusercontent.com/96413187/209562678-4377f9b3-042b-45c0-8896-cd2614ff37cd.png" width="50" height="50" />
