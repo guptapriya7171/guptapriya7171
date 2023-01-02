@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend engineering and data analyzing role.
 - 🌱 I’m currently learning javascript and react.
 - 💞️ I’m looking to collaborate on as a frontend developer.
-- 🚀 I'm on looking forward to develop an awesome project.
+- 🚀 I'm developing an awesome projects.
 - 📫 The mail for an official conversation - guptapriya7171@gmail.com.
 - 
 <!---
