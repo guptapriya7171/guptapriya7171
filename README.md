@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on as a frontend developer.
 - 🚀 I'm developing an awesome projects.
 - 📫 The mail for an official conversation - guptapriya7171@gmail.com.
-- 
 <!---
 guptapriya7171/guptapriya7171 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
