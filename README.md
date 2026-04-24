@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 </table>
 
-<h2>Command to upload folders/Project Files from Visual Studio</h2>
+<h2>Command to upload a Folder/Project Files from Visual Studio</h2>
 1️⃣ git init <br/>
 2️⃣ git add . <br/>
 3️⃣ git commit -m "Your Message" <br/>
