@@ -18,8 +18,12 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Command to upload folders/Project Files from Visual Studio</h2>
 1️⃣ git init
+
 2️⃣ git add .
+
 3️⃣ git commit -m "Your Message"
+
 4️⃣ git remote add origin _________
+
 5️⃣ git push -u origin master
 
